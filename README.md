@@ -4,3 +4,7 @@ Pembobotan dilakukan dengan cara:
 2. Memasukkan data yang telah dilabeli ke dalam model Logistic Regression untuk menilai bobot dari 3 variabel: uraianPekerjaan, spesifikasiPekerjaan, dan jenisPengadaan
 3. Bobot yang sudah didapatkan akan digunakan untuk menghitung nilai kemiripan setiap pasangan data dengan threshold 80%
 
+Bobot Akhir:
+- Uraian weight      : 0.9728
+- Spesifikasi weight : 0.0197
+- Jenis weight       : 0.0075
